@@ -20,10 +20,6 @@
     "clean": "bsb -clean-world",
     "test": "bsb -make-world"
   },
-  "files": [
-    "src/",
-    "bsconfig.json"
-  ],
   "author": "chenglou",
   "license": "MIT",
   "devDependencies": {
